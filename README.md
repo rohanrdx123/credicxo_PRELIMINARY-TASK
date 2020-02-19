@@ -14,4 +14,29 @@ IN THIS PROJECT YOU FIND:
 
 (5)MMUSK_MODEL_PREDICTION.PY (MY MAIN PYTHON SCRIPT FOR TRAIN AND TEST THE DATASET AND PLOTTING THE GRAPHS AND CREATE AND LOAD THE MODEL FOR PREDICTION)
 
+
+Classification Report is :
+
+               precision    recall  f1-score   support
+               
+
+           0       1.00      1.00      1.00      1120
+           
+           1       0.99      0.99      0.99       200
+           
+
+    accuracy                           1.00      1320
+    
+   macro avg       0.99      0.99      0.99      1320
+   
+weighted avg       1.00      1.00      1.00      1320
+
+
+Accuracy Score is : 0.9962121212121212
+
+Confusion matrix is :
+
+ [[1117    3]
+ 
+ [   2  198]]
           
